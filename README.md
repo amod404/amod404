@@ -1,3 +1,4 @@
+![logo](https://github.com/amod404/amod404/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm AMOD</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
